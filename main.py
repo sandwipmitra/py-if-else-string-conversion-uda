@@ -1,18 +1,18 @@
-# sf_population, sf_area = 864816, 231.89
-# rio_population, rio_area = 6453682, 486.5
+sf_population, sf_area = 864816, 231.89
+rio_population, rio_area = 6453682, 486.5
 
-# san_francisco_pop_density = sf_population / sf_area
-# rio_de_janeiro_pop_density = rio_population / rio_area
+san_francisco_pop_density = sf_population / sf_area
+rio_de_janeiro_pop_density = rio_population / rio_area
 
-# # Write code that prints True if San Francisco is denser than Rio, and False otherwise
+# Write code that prints True if San Francisco is denser than Rio, and False otherwise
 
-# san_francisco_pop_density = 864816 / 231.89
-# rio_de_janeiro_pop_density = 6453682 / 486.5
+san_francisco_pop_density = 864816 / 231.89
+rio_de_janeiro_pop_density = 6453682 / 486.5
 
-# if (san_francisco_pop_density > rio_de_janeiro_pop_density):
-#   print(True)
-# else:
-#   print(False)
+if (san_francisco_pop_density > rio_de_janeiro_pop_density):
+  print(True)
+else:
+  print(False)
 
 # #string
 # that_string = "Simon\'s swimming clothes is in the pool side"
@@ -35,14 +35,14 @@
 
 # #5
 
-#type-type conversion
-# house_number = "13"
-# street_name = "The Crescent"
-# town_home = "Belmont"
-# print(type(house_number)) # <class 'int'="">
+type-type conversion
+house_number = "13"
+street_name = "The Crescent"
+town_home = "Belmont"
+print(type(house_number)) # <class 'int'="">
 
-# address = str(house_number + "  " + street_name + ", " + town_home)
-# print(address) # 13 The Crescent, Belmont
+address = str(house_number + "  " + street_name + ", " + town_home)
+print(address) # 13 The Crescent, Belmont
 
 #exercise
 
